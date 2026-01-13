@@ -32,4 +32,13 @@ name = input("What is your name? ")
 age = int(input("What is your age? ")
 print(f"Hello, {name} you are {age} years old.")
 ```
+### Adding a checklist to a markdown
+These are the skills that I should be knowing by now.
+- [x] Python Programming
+- [x] C Programming
+- [ ] Git and Github
+- [x] COA
+- [x] Algorithms and Calculus
+- [ ] Application of all the above
+
 
