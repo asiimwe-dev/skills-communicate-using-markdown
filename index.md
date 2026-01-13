@@ -11,7 +11,8 @@ I am taking this course to understand how markdowns are used in github for docum
 I started programming late last year in August and was introduced to two key programming languages. These were Python and C proogramming language.
 These taught me the core values of programming such as variables, operators and so much more that I needed to know to start programming.
 I wrote my first programs in both kanguages in that period and it qas a simple program that prints Hello, World!. These were as follows;
-'''python
-print("Hello, World!")
-'''C
-printf("Hello, world!")
+
+
+#### Images in markdown
+This is an image of a ya
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
