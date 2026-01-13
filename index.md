@@ -22,8 +22,9 @@ printf("Hello, World");
 
 
 #### Images in markdown
-This is an image of a ya
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+This is an example of an image in markdown
+![me](https://github.com/user-attachments/assets/5834a052-8c4d-4ded-aeef-a80a43318cdb)
+
 
 #### Adding code blocks in markdown
 This is a simple program in python that asks the user for their name and greats them.
@@ -40,5 +41,6 @@ These are the skills that I should be knowing by now.
 - [x] COA
 - [x] Algorithms and Calculus
 - [ ] Application of all the above
+
 
 
